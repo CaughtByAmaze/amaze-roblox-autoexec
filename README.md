@@ -29,3 +29,6 @@ Configuration
 - MAX_VIS_DISTANCE : 500
 - Label offset: BillboardGui.StudsOffsetWorldSpace = Vector3.new(0, -6, 0).
 - Fly speed: baseSpeed = 100.
+
+Loadstring:
+- loadstring(game:HttpGet("https://raw.githubusercontent.com/CaughtByAmaze/ESP-Fly-LocalScript-Roblox/refs/heads/main/amaze.lua"))() 
