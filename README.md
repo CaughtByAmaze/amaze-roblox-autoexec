@@ -1,5 +1,6 @@
-- ESP + Fly LocalScript (Roblox)
-- Summary: Client-side ESP and fly controls. Highlights other players using Highlight , displays username and distance below their character, and provides a smooth fly toggle with basic jitter to avoid perfectly constant motion. Streaming-safe: reliably attaches to players as they join, die/respawn, and leave.
+ESP + Fly LocalScript (Roblox)
+
+Client-side ESP and fly controls. Highlights other players using Highlight , displays username and distance below their character, and provides a smooth fly toggle with basic jitter to avoid perfectly constant motion. Streaming-safe: reliably attaches to players as they join, die/respawn, and leave.
 
 Features
 - ESP highlights all other players and shows USERNAME [Xm] below the character.
